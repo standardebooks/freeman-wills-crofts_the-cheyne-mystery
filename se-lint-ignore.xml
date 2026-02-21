@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
-	<file path="chapter-15.xhtml">
-		<ignore>
-			<code>t-010</code>
-			<reason>Currency, not time.</reason>
-		</ignore>
-	</file>
 	<file path="chapter-20.xhtml">
 		<ignore>
 			<code>s-023</code>
