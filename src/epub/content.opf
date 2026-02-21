@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/freeman-wills-crofts/the-cheyne-mystery</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2026-02-21T20:48:32Z</dc:date>
+		<meta property="dcterms:modified">2026-02-21T20:48:32Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -46,15 +46,15 @@
 		<meta property="group-position" refines="#collection-1">2</meta>
 		<dc:description id="description">A man is drugged and then burgled for something he doesn’t know he has.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Maxwell Cheyne, a young but well-off country gentleman, is approached after his lunch at a hotel in Plymouth by a gentleman with a proposition. The meeting however is cut short after Cheyne passes out, and on waking finds not only his pockets rifled but a message alerting him that his house has been burgled. The strange thing though is that nothing he’s aware of seems to be missing: no jewellery or valuables have been taken and all his papers remain in place; the private detective hired to investigate is also stumped. It’s only when another attempt is made by the perpetrators that a trail is able to be followed; a trail that leads Cheyne to eventually seek the help of Scotland Yard and Inspector French.&lt;/p&gt;
-			&lt;p&gt;This second &lt;a href="https://standardebooks.org/collections/inspector-french"&gt;Inspector French&lt;/a&gt; novel from &lt;a href="https://standardebooks.org/ebooks/freeman-wills-crofts"&gt;Freeman Wills Crofts&lt;/a&gt; once again pits the Inspector against an underhand plot that stretches out from England and into mainland Europe. Despite not arriving until the second half of the book, French quickly gets a grasp of the situation and starts reeling in the perpetrators through methodical analysis of the available evidence.&lt;/p&gt;
+			&lt;p&gt;After lunch at a hotel in Plymouth, Maxwell Cheyne, a young and well-off country gentleman, is approached by a gentleman with a proposition. The meeting, however, is cut short after Cheyne passes out. On waking, he finds not only his pockets rifled but a message alerting him that his house has been burgled. The strange thing is that nothing of his seems to be missing; no jewelry or valuables have been taken, and all of his papers remain in place. The private detective hired to investigate is also stumped. It’s only when another attempt is made by the perpetrators that a trail is established—a trail that leads Cheyne to eventually seek the help of Scotland Yard and &lt;a href="https://standardebooks.org/collections/inspector-french"&gt;Inspector French&lt;/a&gt;.&lt;/p&gt;
+			&lt;p&gt;This novel once again pits Inspector French against the perpetrators of an underhanded plot that stretches out from England and into mainland Europe. Despite not arriving until the second half of the book, French quickly gets a grasp of the situation and starts reeling in the guilty through methodical analysis of the available evidence.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/72986</dc:source>
 		<dc:source>https://archive.org/details/cheynemystery00crof</dc:source>
 		<meta property="se:production-notes">Due to typogrify not coping with leading ellipses, the partial words on the stamp have been enclosed in quotes.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">85503</meta>
+		<meta property="se:reading-ease.flesch">72.05</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Cheyne_Mystery</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/freeman-wills-crofts_the-cheyne-mystery</meta>
 		<dc:creator id="author">Freeman Wills Crofts</dc:creator>
@@ -81,6 +81,11 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">David Reimer</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Reimer, David</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://github.com/dajare</meta>
+		<meta property="se:url.authority.nacoaf" refines="#producer-2">http://id.loc.gov/authorities/names/n92075987</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
