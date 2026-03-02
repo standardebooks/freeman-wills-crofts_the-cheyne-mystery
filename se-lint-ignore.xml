@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
 	<file path="chapter-20.xhtml">
-		<ignore>
-			<code>s-023</code>
+		<ignore code="s-023">
 			<reason>The text treats this as a single name, not a definitive and a name. (It’s also always used with “the” before.)</reason>
 		</ignore>
 	</file>
