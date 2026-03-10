@@ -2,6 +2,7 @@
 <se-lint-ignore>
 	<file path="chapter-20.xhtml">
 		<ignore code="s-023">
+			<line>12</line>
 			<reason>The text treats this as a single name, not a definitive and a name. (It’s also always used with “the” before.)</reason>
 		</ignore>
 	</file>
