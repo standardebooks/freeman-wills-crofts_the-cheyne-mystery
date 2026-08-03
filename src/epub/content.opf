@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/freeman-wills-crofts/the-cheyne-mystery</dc:identifier>
 		<dc:date>2026-02-21T20:48:32Z</dc:date>
@@ -45,11 +45,11 @@
 		<meta id="collection-1" property="belongs-to-collection">Inspector French</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">2</meta>
-		<dc:description id="description">A man is drugged and then burgled for something he doesn’t know he has.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A man is drugged and then burgled for something he doesn’t know he has.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;After lunch at a hotel in Plymouth, Maxwell Cheyne, a young and well-off country gentleman, is approached by a gentleman with a proposition. The meeting, however, is cut short after Cheyne passes out. On waking, he finds not only his pockets rifled but a message alerting him that his house has been burgled. The strange thing is that nothing of his seems to be missing; no jewelry or valuables have been taken, and all of his papers remain in place. The private detective hired to investigate is also stumped. It’s only when another attempt is made by the perpetrators that a trail is established—a trail that leads Cheyne to eventually seek the help of Scotland Yard and &lt;a href="https://standardebooks.org/collections/inspector-french"&gt;Inspector French&lt;/a&gt;.&lt;/p&gt;
 			&lt;p&gt;This novel once again pits Inspector French against the perpetrators of an underhanded plot that stretches out from England and into mainland Europe. Despite not arriving until the second half of the book, French quickly gets a grasp of the situation and starts reeling in the guilty through methodical analysis of the available evidence.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/72986</dc:source>
 		<dc:source>https://archive.org/details/cheynemystery00crof</dc:source>
