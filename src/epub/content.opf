@@ -45,7 +45,7 @@
 		<meta id="collection-1" property="belongs-to-collection">Inspector French</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">2</meta>
-		<dc:abstract>A man is drugged and then burgled for something he doesn’t know he has.</dc:abstract>
+		<meta property="schema:abstract">A man is drugged and then burgled for something he doesn’t know he has.</meta>
 		<dc:description>
 			&lt;p&gt;After lunch at a hotel in Plymouth, Maxwell Cheyne, a young and well-off country gentleman, is approached by a gentleman with a proposition. The meeting, however, is cut short after Cheyne passes out. On waking, he finds not only his pockets rifled but a message alerting him that his house has been burgled. The strange thing is that nothing of his seems to be missing; no jewelry or valuables have been taken, and all of his papers remain in place. The private detective hired to investigate is also stumped. It’s only when another attempt is made by the perpetrators that a trail is established—a trail that leads Cheyne to eventually seek the help of Scotland Yard and &lt;a href="https://standardebooks.org/collections/inspector-french"&gt;Inspector French&lt;/a&gt;.&lt;/p&gt;
 			&lt;p&gt;This novel once again pits Inspector French against the perpetrators of an underhanded plot that stretches out from England and into mainland Europe. Despite not arriving until the second half of the book, French quickly gets a grasp of the situation and starts reeling in the guilty through methodical analysis of the available evidence.&lt;/p&gt;
